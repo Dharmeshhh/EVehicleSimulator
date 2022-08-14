@@ -1,5 +1,8 @@
 # EVehicleSimulator
 
+ Electric Vehicle Charging Stations: London City Simulator at London South Campus Fanshawe College to design and develop a web application that will perform the simulation of every car sharing EV fleet in the London city which will help them analyze the overall feasibility of the EV based car sharing business model as well as will help provide factual insights about charging station infrastructure development. MS Project and Jira will be used to plan, track, and manage the project to meet the milestones.
+
+
 Installation Guide
 
    This install, config, and run the project following installation and setup must be done. Followings are the tools and technologies need to be installed.
