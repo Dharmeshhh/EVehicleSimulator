@@ -12,15 +12,6 @@ Installation Guide
 3.	MySQL
 4.	Here API Registration
 
-•	Git: 
-o	Git used to keep track of version and source control. Once you download the git and install it with the default configuration. During the installation, please make sure to check "add git to path" configuration.  
-o	Once installed successfully. You need to connect to repository and clone it. Steps to clone. 
-i.	 Open file explorer 
-ii.	Go to your destination path.
-iii.	Open command line and enter 
-o	git clone https://github.com/dhruviSanghani/E-vehicle-simulator.git
-o	Download Link for Git: https://git-scm.com/downloads
-
 •	Visual Studio 2022
 o	Follow default installation stop while selecting workloads.
 o	Select ASP.NET and web Development and make sure to select .NET CORE 6.
